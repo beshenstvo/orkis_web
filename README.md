@@ -1,3 +1,18 @@
+## Цель проекта:
+1. Создать информационную систему для туристического агенства.
+
+## Выполненные задачи:
+1. В проекте разработана БД с 17 сущностями, есть визуальное представление концептуальной и логической модели, а также дамп базы данных по [ссылке](https://drive.google.com/drive/folders/1iVB1XUa6eh2F0GG2LFHxB_CflhjIu9Sw?usp=sharing).
+2. Авторизация/Регистрация.
+3. Реализация 3 роли(у каждого из которых свой функционал) + разграничение прав доступа.
+4. CRUD операции. 
+5. Фильтрации и поиск.
+
+
+Ссылка на сайт - [Жмыкай](http://orkis.std-971.ist.mospolytech.ru)
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
